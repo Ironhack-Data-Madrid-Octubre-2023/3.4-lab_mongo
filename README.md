@@ -2,6 +2,7 @@
 
 # MongoDB | Compass CRUD
 
+
 ## Introduction
 
 We are back with our queries! :wink:
